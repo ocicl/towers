@@ -1,0 +1,10 @@
+* towers
+
+Silly geodefense clone wannabe
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/towers.git   |
+| commit  | 9625c89  |
+| systems | towers |
+|---------+-------------------------------------------|
+
